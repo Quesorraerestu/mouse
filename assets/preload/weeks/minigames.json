@@ -1,0 +1,113 @@
+{
+	"storyName": "Minigames",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "disk3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Sky Fallen",
+			"toons",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"The End",
+			"costume",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Doggydogus",
+			"doggy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Welcome Back",
+			"oldmouse",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Mascot",
+			"gascot",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Magic",
+			"mousea",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Smile Sunrise",
+			"bipolar",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Devil Mouse",
+			"cheddar",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"You Cant Run",
+			"ycr",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"In The Trap",
+			"familyguy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Minigames"
+}

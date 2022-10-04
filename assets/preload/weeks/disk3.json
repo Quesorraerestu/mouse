@@ -1,0 +1,68 @@
+{
+	"storyName": "Delusional Madness",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "suicide",
+	"weekBefore": "disk2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Depression",
+			"suicide",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Misery",
+			"suicide",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Suicide",
+			"suicide2",
+			[
+				80,
+				80,
+				80
+			]
+		],
+		[
+			"Happy Ride",
+			"suicide3",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Insanity Psychosis",
+			"suicide4",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Disk 3"
+}

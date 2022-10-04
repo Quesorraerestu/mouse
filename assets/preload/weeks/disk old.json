@@ -1,0 +1,59 @@
+{
+	"storyName": "Trip to the Past",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "welcomeold",
+	"weekBefore": "disk3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Welcome (Old)",
+			"alphamouse",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Revenge (Old)",
+			"revengealpha",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Crisis (Old)",
+			"mousea",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"The Mouse",
+			"mousea",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "diskold"
+}

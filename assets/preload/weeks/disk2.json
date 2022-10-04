@@ -1,0 +1,68 @@
+{
+	"storyName": "Unexpected Encounter",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "disney",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "disk1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Interference",
+			"labrat",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Nightmares",
+			"labrat",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Musophobia",
+			"labrat",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Hungry",
+			"labrat",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Labrat",
+			"labrat",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Disk 2",
+	"hiddenUntilUnlocked": true
+}
