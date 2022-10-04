@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "clubhouse-crisis",
+		"player1": "bf",
+		"player2": "marco",
+		"player3": null,
+		"events": [
+			[
+				123130.434782609,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				124173.913043478,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				125217.391304348,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"D1 Distorted",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				133565.217391305,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				150260.869565218,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					],
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154434.782608696,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				158608.695652174,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				162782.608695652,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				166434.782608696,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				166956.521739131,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Sprite Removal",
+						"ye",
+						""
+					],
+					[
+						"Sprite Removal",
+						"headisbackomg",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-disk-1",
+		"bpm": 230,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Crisis"
+	}
+}
