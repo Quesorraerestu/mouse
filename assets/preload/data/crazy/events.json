@@ -1,0 +1,394 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "clubhouse-crazy",
+		"player1": "bf",
+		"player2": "marco",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13241.3793103448,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"13"
+					]
+				]
+			],
+			[
+				26482.7586206897,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				38896.5517241379,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				39724.1379310345,
+				[
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				39827.5862068966,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				66206.8965517241,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"D1 Distorted",
+						"",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				66206.8965517241,
+				[
+					[
+						"Screen Shake",
+						"25.6, 0.01",
+						"25.6, 0.01"
+					]
+				]
+			],
+			[
+				90206.8965517241,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				92689.6551724137,
+				[
+					[
+						"Change Scroll Speed",
+						"0.6",
+						"0"
+					]
+				]
+			],
+			[
+				92689.6551724137,
+				[
+					[
+						"Zoom Camera",
+						"0.46",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				92689.6551724137,
+				[
+					[
+						"Sprite Removal",
+						"ye",
+						""
+					],
+					[
+						"Sprite Removal",
+						"headisbackomg",
+						""
+					]
+				]
+			],
+			[
+				105931.034482759,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"26.5"
+					],
+					[
+						"Zoom Camera",
+						"0.58",
+						""
+					]
+				]
+			],
+			[
+				132413.793103448,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				145655.172413793,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"5"
+					]
+				]
+			],
+			[
+				169655.172413793,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				172137.931034483,
+				[
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.2"
+					],
+					[
+						"D1 Distorted",
+						"",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"0.06"
+					]
+				]
+			],
+			[
+				172241.379310345,
+				[
+					[
+						"Screen Shake",
+						"25.6, 0.01",
+						"25.6, 0.01"
+					]
+				]
+			],
+			[
+				196965.517241379,
+				[
+					[
+						"Zoom Camera",
+						"1.0",
+						""
+					]
+				]
+			],
+			[
+				198620.689655172,
+				[
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"2"
+					],
+					[
+						"Sprite Removal",
+						"ye",
+						""
+					],
+					[
+						"Sprite Removal",
+						"headisbackomg",
+						""
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				198724.137931034,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				211862.068965517,
+				[
+					[
+						"D1 Distorted",
+						"",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"2"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				211965.517241379,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"10"
+					]
+				]
+			],
+			[
+				224275.862068965,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				225103.448275862,
+				[
+					[
+						"Black Screen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-disk-1",
+		"bpm": 145,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Crazy"
+	}
+}
