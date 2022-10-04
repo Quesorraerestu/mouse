@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "clubhouse-old",
+		"player1": "bf",
+		"player2": "old-mouse",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "The Mouse"
+	}
+}
