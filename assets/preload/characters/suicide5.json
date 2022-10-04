@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-103,
+				18
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-104,
+				57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				69
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-89,
+				193
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "Happy Ride (2) Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-172,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Happy Ride (2) Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Happy Ride (2)",
+	"position": [
+		-520,
+		-30
+	],
+	"healthicon": "suicide3",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		108,
+		108
+	],
+	"camera_position": [
+		260,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

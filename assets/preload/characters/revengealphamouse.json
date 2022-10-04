@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-180,
+				-101
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				8,
+				-90
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-199,
+				91
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-180,
+				-98
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-162,
+				-67
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/revengealphamouse_assets",
+	"position": [
+		-320,
+		0
+	],
+	"healthicon": "revengealpha",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		1,
+		1
+	],
+	"camera_position": [
+		-150,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				78,
+				-23
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "  Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				36,
+				-59
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "  Laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				335,
+				253
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "  Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "  Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				220
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "  Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "  Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ycrmickey_assets",
+	"position": [
+		-120,
+		-50
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		38,
+		44
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

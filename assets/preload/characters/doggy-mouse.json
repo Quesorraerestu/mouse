@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				4
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-29,
+				2
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				5,
+				-1
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dogmouse",
+	"position": [
+		-480,
+		120
+	],
+	"healthicon": "doggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		82,
+		77
+	],
+	"camera_position": [
+		-150,
+		170
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1.1
+}

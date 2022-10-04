@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-253,
+				152
+			],
+			"loop": false,
+			"fps": 45,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sadmouse Left"
+		},
+		{
+			"offsets": [
+				-264,
+				83
+			],
+			"loop": false,
+			"fps": 45,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sadmouse Right"
+		},
+		{
+			"offsets": [
+				-239,
+				194
+			],
+			"loop": false,
+			"fps": 45,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sadmouse Up"
+		},
+		{
+			"offsets": [
+				-170,
+				123
+			],
+			"loop": false,
+			"fps": 45,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sadmouse Down"
+		},
+		{
+			"offsets": [
+				-248,
+				108
+			],
+			"loop": false,
+			"fps": 45,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sadmouse Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Magrolo",
+	"position": [
+		-540,
+		0
+	],
+	"healthicon": "bipolar",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		260,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.599999999999999
+}

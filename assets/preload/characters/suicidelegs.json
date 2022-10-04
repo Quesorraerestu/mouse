@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-464,
+				-405
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Patas"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SuicideLegs",
+	"position": [
+		-480,
+		0
+	],
+	"healthicon": "suicide5",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		108,
+		108
+	],
+	"camera_position": [
+		260,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

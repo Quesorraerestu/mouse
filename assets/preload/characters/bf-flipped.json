@@ -14,19 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				5,
-				-6
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-50
+				-20,
+				-51
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
+				-6,
 				27
 			],
 			"anim": "singUP",
@@ -47,19 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
-				-7
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				7,
-				19
+				-43,
+				18
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -80,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-36,
-				27
+				4,
+				26
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -91,7 +69,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-44,
+				36,
 				22
 			],
 			"anim": "singRIGHTmiss",
@@ -113,7 +91,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				15,
+				14,
 				18
 			],
 			"anim": "hurt",
@@ -135,7 +113,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
+				-3,
 				11
 			],
 			"anim": "firstDeath",
@@ -146,7 +124,7 @@
 		{
 			"loop": true,
 			"offsets": [
-				37,
+				-3,
 				5
 			],
 			"anim": "deathLoop",
@@ -157,7 +135,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
+				-3,
 				69
 			],
 			"anim": "deathConfirm",
@@ -168,7 +146,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
+				-30,
 				-16
 			],
 			"anim": "dodge",
@@ -179,7 +157,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				294,
+				4,
 				267
 			],
 			"anim": "attack",
@@ -190,13 +168,35 @@
 		{
 			"loop": false,
 			"offsets": [
-				-40,
+				-10,
 				-40
 			],
 			"anim": "pre-attack",
 			"fps": 24,
 			"name": "bf pre attack",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				32,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE RIGHT0"
 		}
 	],
 	"no_antialiasing": false,
@@ -206,7 +206,7 @@
 		350
 	],
 	"healthicon": "bf",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		49,
 		176,

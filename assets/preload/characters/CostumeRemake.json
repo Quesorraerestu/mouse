@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-280,
+				0
+			],
+			"indices": [],
+			"fps": 46,
+			"anim": "scream",
+			"loop": false,
+			"name": "Scary_Costume"
+		},
+		{
+			"offsets": [
+				-150,
+				-30
+			],
+			"indices": [],
+			"fps": 46,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle_Costume"
+		},
+		{
+			"offsets": [
+				-310,
+				140
+			],
+			"indices": [],
+			"fps": 46,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up_Costume"
+		},
+		{
+			"offsets": [
+				-160,
+				-200
+			],
+			"indices": [],
+			"fps": 46,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down_Costume"
+		},
+		{
+			"offsets": [
+				50,
+				50
+			],
+			"indices": [],
+			"fps": 46,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left_Costume"
+		},
+		{
+			"offsets": [
+				-292,
+				-20
+			],
+			"indices": [],
+			"fps": 46,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right_Costume"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/the_end_animation",
+	"position": [
+		-400,
+		100
+	],
+	"healthicon": "costume",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

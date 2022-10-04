@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-293,
+				208
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-353,
+				217
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-344,
+				248
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-308,
+				284
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Misery (2) Up"
+		},
+		{
+			"offsets": [
+				-359,
+				278
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Misery (2)",
+	"position": [
+		-480,
+		0
+	],
+	"healthicon": "suicide2",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		108,
+		108
+	],
+	"camera_position": [
+		250,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
