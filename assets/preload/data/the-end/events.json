@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "void",
+		"player1": "bf",
+		"player2": "CostumeRemake",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					],
+					[
+						"HideHud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20083.3333333333,
+				[
+					[
+						"ShowHud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"6"
+					]
+				]
+			],
+			[
+				84750,
+				[
+					[
+						"Add Camera Zoom",
+						"1.50",
+						"1.50"
+					]
+				]
+			],
+			[
+				84833.3333333333,
+				[
+					[
+						"Goodbye Hud",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				85333.3333333333,
+				[
+					[
+						"Sprite Removal",
+						"black",
+						""
+					],
+					[
+						"Red Flash Camera",
+						"3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "The-End"
+	}
+}
