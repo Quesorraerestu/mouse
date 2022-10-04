@@ -1,6 +1,6 @@
 function onCreate()
 	
-	makeLuaSprite('alley', 'Stages/Alley', -350, -150);
+	makeLuaSprite('alley', 'Alley', -350, -150);
 	addLuaSprite('alley',false)
         setLuaSpriteScrollFactor('alley', 1, 1);
 

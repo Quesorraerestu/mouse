@@ -9,7 +9,7 @@ local del2 = 0;
 
 function onCreate()
 
-	makeLuaSprite('house', 'Stages/storage', -350, -150);
+	makeLuaSprite('house', 'storage', -350, -150);
 	addLuaSprite('house',false)
         setLuaSpriteScrollFactor('house', 1, 1);
 
@@ -27,13 +27,13 @@ function onCreate()
         scaleObject('stat', 4, 4);
         addLuaSprite('stat', true);
 
-        makeLuaSprite('atari','Stages/atari',-31,0)
+        makeLuaSprite('atari','atari',-31,0)
         setScrollFactor('atari', 0, 0);
         setObjectCamera('atari', 'other');
         scaleObject('atari', 0.999, 0.999);
         addLuaSprite('atari', true);
 
-        makeLuaSprite('camerahud','Stages/hud',-0,0)
+        makeLuaSprite('camerahud','hud',-0,0)
         setScrollFactor('camerahud', 0, 0);
         setObjectCamera('camerahud', 'other');
         scaleObject('camerahud', 0.95, 1);

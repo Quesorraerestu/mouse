@@ -10,11 +10,11 @@ local del2 = 0;
 
 function onCreate()
 
-	makeLuaSprite('house', 'Stages/clubhouse', -350, -150);
+	makeLuaSprite('house', 'clubhouse', -350, -150);
 	addLuaSprite('house',false)
         setLuaSpriteScrollFactor('house', 1, 1);
 
-	makeLuaSprite('head', 'Stages/clubhouse-markus-head', -110, 420);
+	makeLuaSprite('head', 'clubhouse-markus-head', -110, 420);
 	addLuaSprite('head',false)
         scaleObject('head', 0.4, 0.4);
         setLuaSpriteScrollFactor('head', 1, 1);

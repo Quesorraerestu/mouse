@@ -9,7 +9,7 @@ local del2 = 0;
 
 function onCreate()
 
-	makeLuaSprite('out', 'Stages/dog', -350, -150);
+	makeLuaSprite('out', 'dog', -350, -150);
 	addLuaSprite('out',false)
         setLuaSpriteScrollFactor('out', 1, 1);
 

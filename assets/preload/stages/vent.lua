@@ -9,7 +9,7 @@ local del2 = 0;
 
 function onCreate()
 
-	makeLuaSprite('vent', 'Stages/vent', -350, -150);
+	makeLuaSprite('vent', 'vent', -350, -150);
 	addLuaSprite('vent',false)
         setLuaSpriteScrollFactor('vent', 1, 1);
 

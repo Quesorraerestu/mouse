@@ -8,14 +8,14 @@ local del = 0;
 local del2 = 0;
 
 function onCreate()
-        makeAnimatedLuaSprite('Run','stages/BackgroundLeft', -350, -150)
+        makeAnimatedLuaSprite('Run','BackgroundLeft', -350, -150)
         addAnimationByPrefix('Run','Runpog','Background2 Moving2',35,true)
         objectPlayAnimation('Run','Runpog',false)
         setScrollFactor('Run', 1, 1);
         scaleObject('Run', 1.9, 1.9);
         addLuaSprite('Run', false);
 
-        makeLuaSprite('shadow','stages/alley-shadow',-350,-150)
+        makeLuaSprite('shadow','alley-shadow',-350,-150)
         setScrollFactor('shadow', 1, 1);
         setObjectCamera('shadow', 'camgame');
         addLuaSprite('shadow', false);

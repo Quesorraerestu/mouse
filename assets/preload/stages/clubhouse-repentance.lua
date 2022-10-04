@@ -10,7 +10,7 @@ local del2 = 0;
 
 function onCreate()
 
-	makeLuaSprite('house', 'Stages/clubhouse', -350, -150);
+	makeLuaSprite('house', 'clubhouse', -350, -150);
 	addLuaSprite('house',false)
         setLuaSpriteScrollFactor('house', 1, 1);
 

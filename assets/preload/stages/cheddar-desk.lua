@@ -9,7 +9,7 @@ local del2 = 0;
 
 function onCreate()
 
-	makeLuaSprite('desk', 'Stages/desk', -350, -150);
+	makeLuaSprite('desk', 'desk', -350, -150);
 	addLuaSprite('desk',false)
         setLuaSpriteScrollFactor('desk', 1, 1);
 

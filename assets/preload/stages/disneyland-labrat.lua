@@ -9,11 +9,11 @@ local del2 = 0;
 
 function onCreate()
 	
-	makeLuaSprite('disney', 'stages/disneydistorted', -200, -150);
+	makeLuaSprite('disney', 'disneydistorted', -200, -150);
 	addLuaSprite('disney',false)
         setLuaSpriteScrollFactor('bg', 1, 1);
 
-	makeLuaSprite('trees', 'stages/treedistorted', -200, -150);
+	makeLuaSprite('trees', 'treedistorted', -200, -150);
 	addLuaSprite('trees',true)
         setLuaSpriteScrollFactor('trees', 1, 1);
 
