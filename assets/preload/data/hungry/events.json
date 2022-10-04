@@ -1,0 +1,309 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "disneyland-hungry",
+		"player1": "bf",
+		"player2": "experimentnew",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12549.0196078431,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				12549.0196078431,
+				[
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				25098.0392156863,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				50196.0784313725,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				50196.0784313725,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0"
+					]
+				]
+			],
+			[
+				62745.0980392157,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				62749.1830065359,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				69019.6078431372,
+				[
+					[
+						"Change Scroll Speed",
+						"1.0",
+						"0"
+					]
+				]
+			],
+			[
+				75294.1176470588,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					],
+					[
+						"Sing Shake",
+						"",
+						""
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"0.09"
+					]
+				]
+			],
+			[
+				87843.1372549019,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				87843.1372549019,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				100392.156862745,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					]
+				]
+			],
+			[
+				100392.156862745,
+				[
+					[
+						"Change Scroll Speed",
+						"1.0",
+						"0"
+					]
+				]
+			],
+			[
+				112941.176470588,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				112941.176470588,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				119215.68627451,
+				[
+					[
+						"Change Scroll Speed",
+						"1.0",
+						"0"
+					]
+				]
+			],
+			[
+				125490.196078431,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				125490.196078431,
+				[
+					[
+						"Change Scroll Speed",
+						"1.0",
+						"0"
+					]
+				]
+			],
+			[
+				138039.215686274,
+				[
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.2"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"0.7"
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138039.215686274,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				150588.235294118,
+				[
+					[
+						"Black Screen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-disk-1",
+		"bpm": 153,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Hungry"
+	}
+}
