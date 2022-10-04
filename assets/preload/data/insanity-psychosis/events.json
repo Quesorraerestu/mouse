@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "alley-still",
+		"player1": "bf-old-bfvsm",
+		"player2": "suicide6",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"BG Still",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89075.8928571429,
+				[
+					[
+						"BG IS",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"suicide7"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-disk-3-running"
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"3"
+					],
+					[
+						"Flash Camera",
+						"0.1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Insanity-Psychosis"
+	}
+}
