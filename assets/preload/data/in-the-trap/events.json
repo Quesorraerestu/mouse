@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "family-house",
+		"player1": "bf",
+		"player2": "mouse-fg",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Note Side Swap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				315.789473684211,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "In The Trap"
+	}
+}
