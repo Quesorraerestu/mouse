@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Suicide (2).png"><SubTexture name="Down0000" x="827" y="2490" width="722" height="730" frameX="-53" frameY="-202" frameWidth="938" frameHeight="906" />
+<SubTexture name="Down0001" x="1549" y="2490" width="779" height="691" frameX="-44" frameY="-190" frameWidth="938" frameHeight="906" />
+
+<SubTexture name="Idle0000" x="2056" y="856" width="770" height="809" frameX="-153" frameY="-180" frameWidth="1065" frameHeight="969" />
+<SubTexture name="Idle0001" x="0" y="1683" width="741" height="807" frameX="-207" frameY="-208" frameWidth="1065" frameHeight="969" />
+<SubTexture name="Idle0002" x="1589" y="1683" width="751" height="795" frameX="-181" frameY="-198" frameWidth="1065" frameHeight="969" />
+
+<SubTexture name="Left0000" x="696" y="856" width="675" height="816" frameX="-201" frameY="-134" frameWidth="1052" frameHeight="977" />
+<SubTexture name="Left0001" x="1371" y="856" width="685" height="815" frameX="-213" frameY="-140" frameWidth="1052" frameHeight="977" />
+
+<SubTexture name="Suicide (2) Up0000" x="836" y="0" width="836" height="856" frameX="-87" frameY="-158" frameWidth="972" frameHeight="1055" />
+<SubTexture name="Suicide (2) Up0001" x="0" y="0" width="836" height="856" frameX="-87" frameY="-158" frameWidth="972" frameHeight="1055" />
+<SubTexture name="Suicide (2) Up0002" x="1672" y="0" width="676" height="842" frameX="-81" frameY="-173" frameWidth="972" frameHeight="1055" />
+
+<SubTexture name="Suicide (2) Right0000" x="2348" y="0" width="640" height="834" frameX="-241" frameY="-157" frameWidth="1020" frameHeight="1033" />
+<SubTexture name="Suicide (2) Right0001" x="0" y="856" width="696" height="827" frameX="-203" frameY="-166" frameWidth="1020" frameHeight="1033" />
+
+</TextureAtlas>

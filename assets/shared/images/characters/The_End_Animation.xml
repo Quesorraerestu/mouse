@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="The End (Animation).png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down_Costume0000" x="0" y="0" width="1428" height="440"/>
+	<SubTexture name="Down_Costume0001" x="1428" y="0" width="1428" height="440"/>
+	<SubTexture name="Down_Costume0002" x="2856" y="0" width="1428" height="440"/>
+	<SubTexture name="Down_Costume0003" x="0" y="440" width="1428" height="440"/>
+	<SubTexture name="Down_Costume0004" x="1428" y="440" width="1428" height="440"/>
+	<SubTexture name="Down_Costume0005" x="2856" y="440" width="1428" height="440"/>
+	<SubTexture name="Idle_Costume0000" x="5712" y="440" width="1304" height="488"/>
+	<SubTexture name="Idle_Costume0001" x="0" y="928" width="1304" height="488"/>
+	<SubTexture name="Idle_Costume0002" x="1304" y="928" width="1304" height="488"/>
+	<SubTexture name="Idle_Costume0003" x="6520" y="928" width="1304" height="488"/>
+	<SubTexture name="Idle_Costume0004" x="0" y="1416" width="1304" height="488"/>
+	<SubTexture name="Idle_Costume0005" x="1304" y="1416" width="1304" height="488"/>
+	<SubTexture name="Left_Costume0000" x="0" y="1980" width="1379" height="564"/>
+	<SubTexture name="Left_Costume0001" x="1379" y="1980" width="1379" height="564"/>
+	<SubTexture name="Left_Costume0002" x="2758" y="1980" width="1379" height="564"/>
+	<SubTexture name="Left_Costume0003" x="0" y="2544" width="1379" height="564"/>
+	<SubTexture name="Left_Costume0004" x="1379" y="2544" width="1379" height="564"/>
+	<SubTexture name="Right_Costume0000" x="2758" y="2544" width="1254" height="411"/>
+	<SubTexture name="Right_Costume0001" x="0" y="3108" width="1254" height="411"/>
+	<SubTexture name="Right_Costume0002" x="1254" y="3108" width="1254" height="411"/>
+	<SubTexture name="Right_Costume0003" x="2508" y="3108" width="1254" height="411"/>
+	<SubTexture name="Up_Costume0000" x="446" y="3515" width="996" height="529"/>
+	<SubTexture name="Up_Costume0001" x="1762" y="3520" width="996" height="529"/>
+	<SubTexture name="Up_Costume0002" x="3003" y="3523" width="996" height="529"/>
+</TextureAtlas>

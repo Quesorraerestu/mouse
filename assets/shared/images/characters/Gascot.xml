@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gascot.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gascot Down0000" x="0" y="0" width="1103" height="859" frameX="0" frameY="-27" frameWidth="1103" frameHeight="886"/>
+	<SubTexture name="Gascot Down0001" x="0" y="0" width="1103" height="859" frameX="0" frameY="-27" frameWidth="1103" frameHeight="886"/>
+	<SubTexture name="Gascot Down0002" x="0" y="859" width="1072" height="880" frameX="-14" frameY="-5" frameWidth="1103" frameHeight="886"/>
+	<SubTexture name="Gascot Down0003" x="0" y="859" width="1072" height="880" frameX="-14" frameY="-5" frameWidth="1103" frameHeight="886"/>
+	<SubTexture name="Gascot Idle0000" x="0" y="1739" width="1013" height="1125" frameX="0" frameY="-24" frameWidth="1013" frameHeight="1152"/>
+	<SubTexture name="Gascot Idle0001" x="0" y="1739" width="1013" height="1125" frameX="0" frameY="-24" frameWidth="1013" frameHeight="1152"/>
+	<SubTexture name="Gascot Idle0002" x="1103" y="2432" width="1001" height="1138" frameX="-5" frameY="-12" frameWidth="1013" frameHeight="1152"/>
+	<SubTexture name="Gascot Idle0003" x="1103" y="2432" width="1001" height="1138" frameX="-5" frameY="-12" frameWidth="1013" frameHeight="1152"/>
+	<SubTexture name="Gascot Idle0004" x="3103" y="0" width="965" height="1147" frameX="-24" frameY="-4" frameWidth="1013" frameHeight="1152"/>
+	<SubTexture name="Gascot Idle0005" x="3103" y="0" width="965" height="1147" frameX="-24" frameY="-4" frameWidth="1013" frameHeight="1152"/>
+	<SubTexture name="Gascot Left0000" x="1103" y="0" width="1004" height="1221" frameX="0" frameY="0" frameWidth="1018" frameHeight="1221"/>
+	<SubTexture name="Gascot Left0001" x="1103" y="0" width="1004" height="1221" frameX="0" frameY="0" frameWidth="1018" frameHeight="1221"/>
+	<SubTexture name="Gascot Left0002" x="2107" y="1340" width="989" height="1208" frameX="-26" frameY="-13" frameWidth="1018" frameHeight="1221"/>
+	<SubTexture name="Gascot Left0003" x="2107" y="1340" width="989" height="1208" frameX="-26" frameY="-13" frameWidth="1018" frameHeight="1221"/>
+	<SubTexture name="Gascot Right0000" x="0" y="2864" width="1009" height="1221" frameX="-18" frameY="0" frameWidth="1027" frameHeight="1222"/>
+	<SubTexture name="Gascot Right0001" x="0" y="2864" width="1009" height="1221" frameX="-18" frameY="0" frameWidth="1027" frameHeight="1222"/>
+	<SubTexture name="Gascot Right0002" x="1103" y="1221" width="1002" height="1211" frameX="-4" frameY="-11" frameWidth="1027" frameHeight="1222"/>
+	<SubTexture name="Gascot Right0003" x="1103" y="1221" width="1002" height="1211" frameX="-4" frameY="-11" frameWidth="1027" frameHeight="1222"/>
+	<SubTexture name="Gascot Up0000" x="2107" y="0" width="996" height="1340" frameX="0" frameY="0" frameWidth="1013" frameHeight="1340"/>
+	<SubTexture name="Gascot Up0001" x="2107" y="0" width="996" height="1340" frameX="0" frameY="0" frameWidth="1013" frameHeight="1340"/>
+	<SubTexture name="Gascot Up0002" x="2107" y="2548" width="987" height="1308" frameX="-23" frameY="-30" frameWidth="1013" frameHeight="1340"/>
+	<SubTexture name="Gascot Up0003" x="2107" y="2548" width="987" height="1308" frameX="-23" frameY="-30" frameWidth="1013" frameHeight="1340"/>
+</TextureAtlas>

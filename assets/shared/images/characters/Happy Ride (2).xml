@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Happy Ride (2).png"><SubTexture name="Down0000" x="919" y="844" width="921" height="815" frameX="-221" frameY="-100" frameWidth="1160" frameHeight="966" />
+<SubTexture name="Down0001" x="1789" y="0" width="903" height="834" frameX="-239" frameY="-92" frameWidth="1160" frameHeight="966" />
+
+
+<SubTexture name="Idle0000" x="0" y="0" width="913" height="844" frameX="-230" frameY="-47" frameWidth="1161" frameHeight="911" />
+<SubTexture name="Idle0001" x="913" y="0" width="876" height="836" frameX="-267" frameY="-38" frameWidth="1161" frameHeight="911" />
+<SubTexture name="Idle0002" x="1789" y="0" width="919" height="829" frameX="-224" frameY="-44" frameWidth="1161" frameHeight="911" />
+
+<SubTexture name="Left0000" x="1840" y="844" width="949" height="807" frameX="-255" frameY="-115" frameWidth="1174" frameHeight="919" />
+<SubTexture name="Left0001" x="0" y="1673" width="835" height="799" frameX="-213" frameY="-107" frameWidth="1174" frameHeight="919" />
+
+<SubTexture name="Happy Ride (2) Up0000" x="991" y="2472" width="991" height="699" frameX="-173" frameY="-241" frameWidth="1181" frameHeight="1125" />
+<SubTexture name="Happy Ride (2) Up0001" x="0" y="2472" width="991" height="699" frameX="-173" frameY="-241" frameWidth="1181" frameHeight="1125" />
+
+<SubTexture name="Happy Ride (2) Right0000" x="835" y="1673" width="721" height="790" frameX="-309" frameY="-63" frameWidth="960" frameHeight="910" />
+<SubTexture name="Happy Ride (2) Right0001" x="1556" y="1673" width="725" height="788" frameX="-332" frameY="-23" frameWidth="960" frameHeight="910" />
+
+</TextureAtlas>

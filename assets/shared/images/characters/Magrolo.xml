@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Magrolo.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sadmouse Down0000" x="0" y="0" width="1012" height="1024" frameX="-34" frameY="-70" frameWidth="1099" frameHeight="1117"/>
+	<SubTexture name="Sadmouse Down0001" x="1012" y="0" width="1021" height="1024" frameX="-23" frameY="-71" frameWidth="1099" frameHeight="1117"/>
+	<SubTexture name="Sadmouse Idle0000" x="969" y="1213" width="1030" height="1018" frameX="0" frameY="-34" frameWidth="1065" frameHeight="1094"/>
+	<SubTexture name="Sadmouse Idle0001" x="1999" y="1213" width="1037" height="1018" frameX="0" frameY="-34" frameWidth="1065" frameHeight="1094"/>
+	<SubTexture name="Sadmouse Idle0002" x="969" y="2231" width="985" height="1056" frameX="-18" frameY="-11" frameWidth="1065" frameHeight="1094"/>
+	<SubTexture name="Sadmouse Left0000" x="1954" y="2231" width="916" height="1118" frameX="0" frameY="-20" frameWidth="987" frameHeight="1187"/>
+	<SubTexture name="Sadmouse Left0001" x="2981" y="0" width="926" height="1118" frameX="0" frameY="-20" frameWidth="987" frameHeight="1187"/>
+	<SubTexture name="Sadmouse Right0000" x="3036" y="1118" width="915" height="1023" frameX="-10" frameY="0" frameWidth="968" frameHeight="1065"/>
+	<SubTexture name="Sadmouse Right0001" x="3036" y="2141" width="915" height="1023" frameX="-10" frameY="0" frameWidth="968" frameHeight="1065"/>
+	<SubTexture name="Sadmouse Up0000" x="2033" y="0" width="948" height="1213" frameX="-3" frameY="0" frameWidth="1063" frameHeight="1288"/>
+	<SubTexture name="Sadmouse Up0001" x="0" y="1213" width="969" height="1211" frameX="-2" frameY="0" frameWidth="1063" frameHeight="1288"/>
+</TextureAtlas>

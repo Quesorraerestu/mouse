@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ycrmickey_assets.png"><SubTexture name="  Down0000" x="905" y="932" width="769" height="875" frameX="-68" frameY="0" frameWidth="883" frameHeight="880" />
+<SubTexture name="  Down0001" x="1742" y="93" width="848" height="783" frameX="-32" frameY="-62" frameWidth="883" frameHeight="880" />
+<SubTexture name="  Idle0000" x="2624" y="1839" width="788" height="853" frameX="0" frameY="-1" frameWidth="788" frameHeight="854" />
+<SubTexture name="  Idle0001" x="0" y="2694" width="788" height="853" frameX="0" frameY="-1" frameWidth="788" frameHeight="854" />
+<SubTexture name="  Idle0002" x="1055" y="1839" width="787" height="854" frameX="0" frameY="0" frameWidth="788" frameHeight="854" />
+<SubTexture name="  Idle0003" x="1842" y="1839" width="782" height="854" frameX="-2" frameY="0" frameWidth="788" frameHeight="854" />
+<SubTexture name="  Idle0004" x="5616" y="835" width="769" height="831" frameX="-7" frameY="-23" frameWidth="788" frameHeight="854" />
+<SubTexture name="  Idle0005" x="5616" y="2492" width="764" height="824" frameX="-9" frameY="-30" frameWidth="788" frameHeight="854" />
+<SubTexture name="  Laugh0000" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0001" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0002" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0003" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0004" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0005" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0006" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0007" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0008" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0009" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0010" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Laugh0011" x="3" y="1056" width="912" height="780" frameX="-28" frameY="0" frameWidth="942" frameHeight="784" />
+<SubTexture name="  Left0000" x="1709" y="1005" width="893" height="804" frameX="-221" frameY="-388" frameWidth="1209" frameHeight="1246" />
+<SubTexture name="  Left0001" x="2636" y="978" width="874" height="794" frameX="-242" frameY="-394" frameWidth="1209" frameHeight="1246" />
+<SubTexture name="  Right0000" x="2620" y="0" width="1016" height="870" frameX="-17" frameY="-267" frameWidth="1300" frameHeight="1146" />
+<SubTexture name="  Right0001" x="0" y="1839" width="1055" height="855" frameX="-11" frameY="-276" frameWidth="1300" frameHeight="1146" />
+<SubTexture name="  Up0000" x="0" y="0" width="843" height="932" frameX="-83" frameY="0" frameWidth="930" frameHeight="937" />
+<SubTexture name="  Up0001" x="843" y="0" width="882" height="917" frameX="-40" frameY="-12" frameWidth="930" frameHeight="937" />
+
+</TextureAtlas>
