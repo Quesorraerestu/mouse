@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Background2.png">
+  <SubTexture name="Background Moving0000" x="0" y="2160"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0001" x="0" y="2160"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0002" x="0" y="2160"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0003" x="1280" y="1440"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0004" x="1280" y="1440"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0005" x="1280" y="1440"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0006" x="0" y="1440"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0007" x="0" y="1440"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0008" x="0" y="1440"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0009" x="1280" y="720"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0010" x="1280" y="720"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0011" x="1280" y="720"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0012" x="1280" y="0"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0013" x="1280" y="0"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0014" x="1280" y="0"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0015" x="0" y="720"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0016" x="0" y="720"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Background Moving0017" x="0" y="720"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
