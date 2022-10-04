@@ -1,10 +1,13 @@
-{	
-	"titlex":-150,
-	"titley":-100,
-	"startx":100,
-	"starty":576,
-	"gfx":512,
-	"gfy":40,
-	"backgroundSprite":"",
+{
+	
+	"titlex":250,
+	"titley":50,
+	"startx":150,
+	"starty":600,
+	"gfx":1500,
+	"gfy":0,
+	"backgroundSprite":"gfDanceTitle",
 	"bpm":102
+	
+	
 }
