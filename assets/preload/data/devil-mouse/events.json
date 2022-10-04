@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "cheddar-desk",
+		"player1": "bf",
+		"player2": "cheddar",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2181.81818181818,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				2590.90909090909,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				5045.45454545455,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				5318.18181818182,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				5590.90909090909,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				6954.54545454545,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				7363.63636363636,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				7909.09090909091,
+				[
+					[
+						"Goodbye Hud",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 110,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": true,
+		"song": "Devil Mouse"
+	}
+}
