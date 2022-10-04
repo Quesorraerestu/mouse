@@ -1,0 +1,104 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "clubhouse",
+		"player1": "bf",
+		"player2": "Mickey-Mouse",
+		"player3": null,
+		"events": [
+			[
+				44307.6923076923,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				59076.9230769231,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				66461.5384615384,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				73846.1538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				88615.3846153846,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				103384.615384615,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				118153.846153846,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-disk-1",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Clubhouse"
+	}
+}
