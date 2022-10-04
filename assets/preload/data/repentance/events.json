@@ -1,0 +1,334 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "clubhouse-repentance",
+		"player1": "bf-disk1-night",
+		"player2": "Mickey-Demon",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Sing Shake",
+						"",
+						""
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.5"
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"2"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				36666.6666666667,
+				[
+					[
+						"Zoom Camera",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				37333.3333333333,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Zoom Camera",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"0.7"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				53166.6666666667,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"Zoom Camera",
+						"1.0",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"0.7"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"2"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				85333.3333333333,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Zoom Camera",
+						"1.0",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				117333.333333333,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				138666.666666667,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				149333.333333333,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"0.7"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				170666.666666667,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				181333.333333333,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				205333.333333333,
+				[
+					[
+						"Black Screen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-disk-1",
+		"bpm": 90,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Repentance"
+	}
+}
