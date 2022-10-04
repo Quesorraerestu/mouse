@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Needles.png">
+<SubTexture name="purple0000" x="136" y="0" width="165" height="68" frameX="-16" frameY="-65" frameWidth="200" frameHeight="200" />
+<SubTexture name="blue0000" x="0" y="0" width="68" height="165" frameX="-65" frameY="-19" frameWidth="200" frameHeight="200" />
+<SubTexture name="green0000" x="68" y="0" width="68" height="165" frameX="-67" frameY="-16" frameWidth="200" frameHeight="200" />
+<SubTexture name="red0000" x="136" y="68" width="165" height="68" frameX="-19" frameY="-67" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

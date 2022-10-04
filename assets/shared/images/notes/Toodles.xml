@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Toodles.png">
+<SubTexture name="purple0000" x="0" y="0" width="190" height="158" frameX="-6" frameY="-22" frameWidth="200" frameHeight="200" />
+<SubTexture name="blue0000" x="0" y="0" width="190" height="158" frameX="-6" frameY="-22" frameWidth="200" frameHeight="200" />
+<SubTexture name="green0000" x="0" y="0" width="190" height="158" frameX="-6" frameY="-22" frameWidth="200" frameHeight="200" />
+<SubTexture name="red0000" x="0" y="0" width="190" height="158" frameX="-6" frameY="-22" frameWidth="200" frameHeight="200" />
+</TextureAtlas>
