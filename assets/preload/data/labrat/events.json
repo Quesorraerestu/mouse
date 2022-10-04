@@ -1,0 +1,1039 @@
+{
+	"song": {
+		"speed": 3.7,
+		"stage": "disneyland-labrat",
+		"player1": "bf",
+		"player2": "experimentnew",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					],
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				11497.005988024,
+				[
+					[
+						"Slow Zoom",
+						"1.0",
+						"11.5"
+					]
+				]
+			],
+			[
+				11586.8263473054,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"4"
+					]
+				]
+			],
+			[
+				22904.1916167665,
+				[
+					[
+						"Goodbye Hud",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				22994.0119760479,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					]
+				]
+			],
+			[
+				27305.3892215569,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				28742.5149700599,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				34491.0179640718,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				37365.2694610778,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				45988.0239520958,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"2"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				46077.8443113772,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0"
+					]
+				]
+			],
+			[
+				66822.6047904191,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				66826.3473053892,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				66830.0898203593,
+				[
+					[
+						"Screen Shake",
+						"2, 0.02",
+						"2, 0.01"
+					]
+				]
+			],
+			[
+				66871.2574850299,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				66916.1676646706,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				66961.0778443114,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				67005.9880239521,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				67050.8982035928,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				67095.8083832335,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67140.7185628742,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67185.6287425149,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67230.5389221557,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67275.4491017964,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67320.3592814371,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67365.2694610778,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67410.1796407185,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67455.0898203593,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67544.9101796407,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67589.8203592814,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67634.7305389221,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67679.6407185628,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67724.5508982036,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67769.4610778443,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67814.371257485,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67859.2814371257,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67904.1916167664,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67949.1017964072,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				67994.0119760479,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68038.9221556886,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68083.8323353293,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68128.74251497,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				68173.6526946107,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				68218.5628742515,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				68263.4730538922,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				68308.3832335329,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				68353.2934131736,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				68398.2035928143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				68443.1137724551,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				68488.0239520958,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68532.9341317365,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68577.8443113772,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68622.7544910179,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68667.6646706586,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68712.5748502994,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68712.5748502994,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68757.4850299401,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68802.3952095808,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				68978.2934131736,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				68982.0359281437,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69071.8562874251,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				80479.0419161676,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				86227.5449101796,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				91976.0479041916,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					]
+				]
+			],
+			[
+				92065.868263473,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				114970.059880239,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				114970.059880239,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0"
+					]
+				]
+			],
+			[
+				119281.437125748,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				120718.562874251,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				126467.065868263,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				126467.065868263,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				129341.317365269,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				137964.071856287,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				160958.083832335,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					],
+					[
+						"Sing Shake",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					],
+					[
+						"D2 Distorted",
+						"",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				160958.083832335,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				160958.083832335,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				163832.335329341,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				165269.461077844,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				169580.838323353,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				171017.964071856,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				172455.089820359,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				175329.341317365,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				176766.467065868,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				178203.592814371,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				181077.844311377,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				182514.97005988,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				183952.095808383,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				183952.095808383,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183952.095808383,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				186826.347305389,
+				[
+					[
+						"Black Screen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-disk-1",
+		"bpm": 167,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Labrat"
+	}
+}
