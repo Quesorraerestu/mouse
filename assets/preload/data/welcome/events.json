@@ -1,0 +1,329 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "clubhouse",
+		"player1": "bf-disk1",
+		"player2": "Mickey-Mouse",
+		"player3": null,
+		"events": [
+			[
+				19000,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"0.5"
+					],
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				19500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				19625,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					],
+					[
+						"Goodbye Hud",
+						"1",
+						"0.4"
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				47500,
+				[
+					[
+						"Goodbye Hud",
+						"0.5",
+						"0.3"
+					],
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					],
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				47625,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Goodbye Hud",
+						"1",
+						"0.3"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Zoom Camera",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Screen Shake",
+						"48, 0.01",
+						"48, 0.01"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Spawn Dark BG",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Mickey-Demon"
+					]
+				]
+			],
+			[
+				64500,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"2"
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Sprite Removal",
+						"black",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Mickey-Mouse"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Image Flash",
+						"whitescreen",
+						"0.3"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				140000,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				143000,
+				[
+					[
+						"Zoom Camera",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Goodbye Hud",
+						"0",
+						"1.7"
+					]
+				]
+			],
+			[
+				145750,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				146000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				146125,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				147875,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-disk-1",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Welcome"
+	}
+}
